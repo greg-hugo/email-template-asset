@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'CircularStd';
-    src: url('https://raw.githubusercontent.com/greg-hugo/email-template-asset/master/CircularStd-Black.otf').format('opentype');
+    font-family: 'CircularStdBlack';
+    src: url('https://raw.githubusercontent.com/greg-hugo/email-template-asset/master/CircularStd-Black.otf') format('opentype');
     font-weight: 900; /* Font weight for Black */
 }
 
 @font-face {
-    font-family: 'CircularStd';
-    src: url('https://raw.githubusercontent.com/greg-hugo/email-template-asset/master/CircularStd-Bold.otf').format('opentype');
+    font-family: 'CircularStdBold';
+    src: url('https://raw.githubusercontent.com/greg-hugo/email-template-asset/master/CircularStd-Bold.otf') format('opentype');
     font-weight: bold; /* Font weight for Bold */
 }
