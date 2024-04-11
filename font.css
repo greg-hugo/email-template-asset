@@ -32,3 +32,7 @@
       format("opentype");
     font-weight: normal; /* Font weight for Normal */
 }
+
+* {
+    background-color: red;
+}
