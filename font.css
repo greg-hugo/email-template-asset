@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "CircularStdBlack";
+    src: url("https://raw.githubusercontent.com/greg-hugo/email-template-asset/master/CircularStd-Black.otf")
+      format("opentype");
+    font-weight: 900; /* Font weight for Black */
+}
+
+@font-face {
+    font-family: "CircularStdBold";
+    src: url("https://raw.githubusercontent.com/greg-hugo/email-template-asset/master/CircularStd-Bold.otf")
+        format("opentype");
+    font-weight: bold; /* Font weight for Bold */
+}
+
+@font-face {
+    font-family: "ArialBold";
+    src: url("https://raw.githubusercontent.com/greg-hugo/email-template-asset/master/ArialBold.ttf")
+        format("truetype");
+    font-weight: bold; /* Font weight for Bold */
+}
+
+@font-face {
+    font-family: "Arial";
+    src: url("https://raw.githubusercontent.com/greg-hugo/email-template-asset/master/Arial.ttf")
+        format("truetype");
+    font-weight: normal; /* Font weight for Normal */
+}
+
+@font-face {
+    font-family: "Myriad";
+    src: url("https://raw.githubusercontent.com/greg-hugo/email-template-asset/master/MyriadPro-Regular.otf")
+      format("opentype");
+    font-weight: normal; /* Font weight for Normal */
+}
